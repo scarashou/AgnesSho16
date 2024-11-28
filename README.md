@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Agnes-Su16
+- 👋 Hi, I’m @Nes 
 - 👀 I’m interested in game, movie ,music
-- 🌱 I’m currently learning Java and Python 
-- 💞️ I’m looking to collaborate on Dicoding & IT Box
-- 👩‍💻 Front-end Developer at President University
+- 🌱 I’m currently learning Java and Python
+- 👩‍💻 Front-end Developer
 
 
 <!---
